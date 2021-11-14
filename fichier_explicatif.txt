@@ -23,3 +23,4 @@ Finally, a bar chart shows us the highest areas of lands sold this year.
 
 
 
+Link to the streamlit share : https://share.streamlit.io/arcticvertigo/datavizpj/main/projetDT.py
