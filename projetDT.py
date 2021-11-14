@@ -296,14 +296,13 @@ def town_price_meters2(df):
 def main():
 
     mapping_data(filterLonLatForMapping(data), "date_mutation") #we map the data with the function mapping data, with parameters the function filterLonLatForMapping that takes the dataframe and return longitude and latitude without null values (with which we can't use st.map()) and our column date of mutation that will be used to choose the month we want to display on the map.
-    disp_table(data) #avec vente.. nature vente
+    disp_table(data)
     pie_chart_graph(data)
     town_price_meters2(data)
     lines_chart_graph(data)
     st_line(data)
 
     scatter_plot(data)
-    bar_chart_nature_culture(data)
     histogram_month(data)
     heat_map(data)
     altair_chart(data)
