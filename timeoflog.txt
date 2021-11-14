@@ -1,0 +1,681 @@
+Map function
+It took 0.03999924659729004 seconds 
+
+Heatmap function
+It took 0.9200067520141602 seconds 
+
+It took 0.05998826026916504 seconds 
+
+It took 0.0029981136322021484 seconds 
+
+It took 0.06001925468444824 seconds 
+
+It took 0.015993595123291016 seconds 
+
+It took 0.008002042770385742 seconds 
+
+It took 0.00803518295288086 seconds 
+
+It took 0.013967275619506836 seconds 
+
+It took 0.005971431732177734 seconds 
+
+It took 0.010016918182373047 seconds 
+
+It took 0.00499725341796875 seconds 
+
+It took 0.008999109268188477 seconds 
+
+It took 0.019990921020507812 seconds 
+
+It took 0.016001224517822266 seconds 
+
+It took 0.007999420166015625 seconds 
+
+It took 0.04805254936218262 seconds 
+
+It took 0.0 seconds 
+
+It took 0.0 seconds 
+
+It took 0.0 seconds 
+
+It took 0.015654325485229492 seconds 
+
+It took 0.008072137832641602 seconds 
+
+It took 0.008037328720092773 seconds 
+
+It took 0.0 seconds 
+
+It took 0.008146524429321289 seconds 
+
+It took 0.015622854232788086 seconds 
+
+Heatmap function
+Map function
+It took 0.004036664962768555 seconds 
+
+Heatmap function
+Map function
+It took 0.015655994415283203 seconds 
+
+Heatmap function
+Map function
+It took 0.0100555419921875 seconds 
+
+Heatmap function
+Map function
+It took 0.0 seconds 
+
+Heatmap function
+Map function
+It took 0.015657424926757812 seconds 
+
+Heatmap function
+Map function
+It took 0.009967327117919922 seconds 
+
+Heatmap function
+Map function
+It took 0.008034467697143555 seconds 
+
+Heatmap function
+Map function
+It took 0.00396418571472168 seconds 
+
+Heatmap function
+Map function
+It took 0.023615598678588867 seconds 
+
+Heatmap function
+Map function
+It took 0.015583515167236328 seconds 
+
+Heatmap function
+Map function
+It took 0.015620231628417969 seconds 
+
+Heatmap function
+Map function
+It took 0.015622377395629883 seconds 
+
+Heatmap function
+Map function
+It took 0.008066177368164062 seconds 
+
+Heatmap function
+Map function
+It took 0.028218746185302734 seconds 
+
+Heatmap function
+Map function
+It took 0.04479551315307617 seconds 
+
+Heatmap function
+Map function
+It took 0.03779196739196777 seconds 
+
+Heatmap function
+Map function
+It took 0.05561518669128418 seconds 
+
+Heatmap function
+Map function
+It took 0.04686689376831055 seconds 
+
+Heatmap function
+Map function
+It took 0.04777717590332031 seconds 
+
+Heatmap function
+Map function
+It took 0.05344843864440918 seconds 
+
+Heatmap function
+Map function
+It took 0.037726640701293945 seconds 
+
+Heatmap function
+Map function
+It took 0.05687904357910156 seconds 
+
+Heatmap function
+Map function
+It took 0.03127932548522949 seconds 
+
+Heatmap function
+Map function
+It took 0.04988455772399902 seconds 
+
+Heatmap function
+Map function
+It took 0.03778386116027832 seconds 
+
+Heatmap function
+Map function
+It took 0.046900272369384766 seconds 
+
+Heatmap function
+Map function
+It took 0.053374290466308594 seconds 
+
+Heatmap function
+Map function
+It took 0.07195687294006348 seconds 
+
+Heatmap function
+Map function
+It took 0.04529166221618652 seconds 
+
+Heatmap function
+Map function
+It took 0.03128194808959961 seconds 
+
+Heatmap function
+Map function
+It took 0.03779006004333496 seconds 
+
+Heatmap function
+Map function
+It took 0.04686784744262695 seconds 
+
+Heatmap function
+Map function
+It took 0.046868085861206055 seconds 
+
+Heatmap function
+Map function
+It took 0.04686737060546875 seconds 
+
+Heatmap function
+Map function
+It took 1.4172544479370117 seconds 
+
+Heatmap function
+Map function
+It took 0.8964235782623291 seconds 
+
+Heatmap function
+Map function
+It took 0.0 seconds 
+
+Heatmap function
+Map function
+It took 0.010040760040283203 seconds 
+
+Heatmap function
+Map function
+It took 0.0 seconds 
+
+Heatmap function
+Map function
+It took 0.015626907348632812 seconds 
+
+Heatmap function
+Heatmap function
+Heatmap function
+Heatmap function
+Heatmap function
+Heatmap function
+Heatmap function
+Heatmap function
+Heatmap function
+Heatmap function
+Heatmap function
+Heatmap function
+Heatmap function
+Heatmap function
+Heatmap function
+Heatmap function
+Heatmap function
+Heatmap function
+Heatmap function
+Heatmap function
+Heatmap function
+Heatmap function
+Heatmap function
+Heatmap function
+Heatmap function
+Heatmap function
+Heatmap function
+Heatmap function
+Heatmap function
+Heatmap function
+Heatmap function
+Heatmap function
+Heatmap function
+Heatmap function
+Heatmap function
+Heatmap function
+Heatmap function
+Heatmap function
+Heatmap function
+Heatmap function
+Heatmap function
+Heatmap function
+Heatmap function
+Heatmap function
+Heatmap function
+Heatmap function
+Heatmap function
+Heatmap function
+Heatmap function
+Heatmap function
+Heatmap function
+Heatmap function
+Heatmap function
+Heatmap function
+Heatmap function
+Heatmap function
+Heatmap function
+Heatmap function
+Heatmap function
+Heatmap function
+Heatmap function
+Heatmap function
+Heatmap function
+Heatmap function
+Heatmap function
+Map function
+It took 0.003022432327270508 seconds 
+
+Heatmap function
+Heatmap function
+Heatmap function
+Heatmap function
+Heatmap function
+Heatmap function
+Map function
+It took 0.0069811344146728516 seconds 
+
+Heatmap function
+Heatmap function
+Heatmap function
+Map function
+It took 0.00698089599609375 seconds 
+
+Heatmap function
+Heatmap function
+Heatmap function
+Map function
+It took 0.008972883224487305 seconds 
+
+Heatmap function
+Heatmap function
+Heatmap function
+Map function
+It took 0.011008739471435547 seconds 
+
+Heatmap function
+Heatmap function
+Heatmap function
+Heatmap function
+Heatmap function
+Heatmap function
+Heatmap function
+Heatmap function
+Heatmap function
+Heatmap function
+Heatmap function
+Heatmap function
+Heatmap function
+Heatmap function
+Heatmap function
+Heatmap function
+Heatmap function
+Heatmap function
+Heatmap function
+Heatmap function
+Heatmap function
+Heatmap function
+Heatmap function
+Heatmap function
+Heatmap function
+Heatmap function
+Heatmap function
+Heatmap function
+Heatmap function
+Heatmap function
+Heatmap function
+Heatmap function
+Heatmap function
+Heatmap function
+Heatmap function
+Heatmap function
+Heatmap function
+Heatmap function
+Heatmap function
+Heatmap function
+Heatmap function
+Heatmap function
+Heatmap function
+Heatmap function
+Heatmap function
+Heatmap function
+Heatmap function
+Heatmap function
+Heatmap function
+Heatmap function
+Heatmap function
+Heatmap function
+Heatmap function
+Heatmap function
+Heatmap function
+Heatmap function
+Heatmap function
+Heatmap function
+Heatmap function
+Heatmap function
+Heatmap function
+Heatmap function
+Heatmap function
+Heatmap function
+Heatmap function
+Heatmap function
+Heatmap function
+Heatmap function
+Heatmap function
+Heatmap function
+Heatmap function
+Heatmap function
+Heatmap function
+Heatmap function
+Heatmap function
+Heatmap function
+Heatmap function
+Map function
+It took 0.01599860191345215 seconds 
+
+Heatmap function
+Map function
+It took 0.04000377655029297 seconds 
+
+Heatmap function
+Map function
+It took 0.008001327514648438 seconds 
+
+Heatmap function
+Map function
+It took 0.03200125694274902 seconds 
+
+Heatmap function
+Heatmap function
+Heatmap function
+Heatmap function
+Heatmap function
+Heatmap function
+Heatmap function
+Heatmap function
+Heatmap function
+Heatmap function
+Heatmap function
+Heatmap function
+Heatmap function
+Heatmap function
+Heatmap function
+Heatmap function
+Heatmap function
+Heatmap function
+Heatmap function
+Heatmap function
+Heatmap function
+Heatmap function
+Heatmap function
+Heatmap function
+Heatmap function
+Heatmap function
+Heatmap function
+Heatmap function
+Heatmap function
+Heatmap function
+Heatmap function
+Heatmap function
+Heatmap function
+Heatmap function
+Heatmap function
+Heatmap function
+Heatmap function
+Heatmap function
+Heatmap function
+Heatmap function
+Heatmap function
+Heatmap function
+Heatmap function
+Heatmap function
+Heatmap function
+Heatmap function
+Heatmap function
+Heatmap function
+Heatmap function
+Heatmap function
+Heatmap function
+Heatmap function
+Heatmap function
+Heatmap function
+Heatmap function
+Heatmap function
+Heatmap function
+Heatmap function
+Heatmap function
+Heatmap function
+Heatmap function
+Heatmap function
+Heatmap function
+Heatmap function
+Heatmap function
+Heatmap function
+Heatmap function
+Heatmap function
+Heatmap function
+Heatmap function
+Heatmap function
+Heatmap function
+Heatmap function
+Heatmap function
+Heatmap function
+Heatmap function
+Heatmap function
+Heatmap function
+Heatmap function
+Heatmap function
+Heatmap function
+Heatmap function
+Heatmap function
+Heatmap function
+Heatmap function
+Heatmap function
+Heatmap function
+Heatmap function
+Heatmap function
+Heatmap function
+Map function
+It took 0.010076284408569336 seconds 
+
+Heatmap function
+Map function
+It took 0.016942977905273438 seconds 
+
+Heatmap function
+Map function
+It took 0.005062103271484375 seconds 
+
+Heatmap function
+Map function
+It took 0.018901586532592773 seconds 
+
+Heatmap function
+Map function
+It took 0.02217578887939453 seconds 
+
+Heatmap function
+Map function
+It took 0.02298879623413086 seconds 
+
+Heatmap function
+Map function
+It took 0.02903008460998535 seconds 
+
+Heatmap function
+Map function
+It took 0.010006904602050781 seconds 
+
+Heatmap function
+Map function
+It took 0.03798866271972656 seconds 
+
+Heatmap function
+Map function
+It took 0.03092789649963379 seconds 
+
+Heatmap function
+Map function
+It took 0.021941661834716797 seconds 
+
+Heatmap function
+Map function
+It took 0.016954898834228516 seconds 
+
+Heatmap function
+Map function
+It took 0.012999773025512695 seconds 
+
+Map function
+It took 0.01396632194519043 seconds 
+
+Map function
+It took 0.00897669792175293 seconds 
+
+Map function
+It took 0.011004209518432617 seconds 
+
+Heatmap function
+Map function
+It took 0.011008501052856445 seconds 
+
+Map function
+It took 0.015566587448120117 seconds 
+
+Map function
+It took 0.02821516990661621 seconds 
+
+Map function
+It took 0.033893585205078125 seconds 
+
+Heatmap function
+Map function
+It took 0.010968923568725586 seconds 
+
+Heatmap function
+Map function
+It took 0.014959573745727539 seconds 
+
+Map function
+It took 0.028873682022094727 seconds 
+
+Heatmap function
+Map function
+It took 0.011967658996582031 seconds 
+
+Heatmap function
+Map function
+It took 0.013962268829345703 seconds 
+
+Heatmap function
+Map function
+It took 0.009975671768188477 seconds 
+
+Heatmap function
+Map function
+It took 0.010970830917358398 seconds 
+
+Map function
+It took 0.008943319320678711 seconds 
+
+Heatmap function
+Map function
+It took 0.04081273078918457 seconds 
+
+Heatmap function
+Map function
+It took 0.031920671463012695 seconds 
+
+Heatmap function
+Map function
+It took 0.027924776077270508 seconds 
+
+Heatmap function
+Map function
+It took 0.03190350532531738 seconds 
+
+Heatmap function
+Map function
+It took 0.016515731811523438 seconds 
+
+Heatmap function
+Map function
+It took 0.036164283752441406 seconds 
+
+Map function
+It took 0.023920536041259766 seconds 
+
+Map function
+It took 0.043828725814819336 seconds 
+
+Heatmap function
+Map function
+It took 0.012963294982910156 seconds 
+
+Map function
+It took 0.016953706741333008 seconds 
+
+Heatmap function
+Map function
+It took 0.013963460922241211 seconds 
+
+Map function
+It took 0.029921293258666992 seconds 
+
+Heatmap function
+Map function
+It took 0.03185606002807617 seconds 
+
+Heatmap function
+Map function
+It took 0.010971546173095703 seconds 
+
+Heatmap function
+Map function
+It took 0.015959978103637695 seconds 
+
+Heatmap function
+Map function
+It took 0.035901784896850586 seconds 
+
+Heatmap function
+Map function
+It took 0.009747743606567383 seconds 
+
+Heatmap function
+Map function
+It took 0.014922380447387695 seconds 
+
+Heatmap function
+Map function
+It took 0.006983757019042969 seconds 
+
+Heatmap function
+Map function
+It took 0.03221726417541504 seconds 
+
+Heatmap function
+Map function
+It took 0.012929916381835938 seconds 
+
+Heatmap function
+Map function
+It took 0.017948627471923828 seconds 
+
+Map function
+It took 0.016954660415649414 seconds 
+
