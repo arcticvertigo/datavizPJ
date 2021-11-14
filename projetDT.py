@@ -43,7 +43,7 @@ elif option == '2020':
     DATE_COLUMN = "date_mutation"
 
 user_choice_nbrows = st.sidebar.number_input('How many rows from the database do you want to study ? from 2 to 1000000', 10, 100000, 10000)
-#user_choice_nbrows = st.sidebar.slider('How many rows from the database do you want to study ? from 2 to 1000000', 10, 100000, 10000)
+#user_choice_nbrows = st.sidebar.slider('How many rows from the database do you want to study ? from 10 to 1000000', 10, 100000, 10000)
 
 @st.cache(allow_output_mutation=True)
 def load_data(nrows):
