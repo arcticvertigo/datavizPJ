@@ -1,0 +1,25 @@
+Explenation file
+
+This streamlit application uses many librairies, as seaborn, matplotlib, plotly and altair in order to construct some grate datavisualization.
+
+We will study four csv separately, that represents 4 years (2016 to 2020) of land values information.
+We ask the user how many rows he wants to study and load the dataset.
+We use st.cache decorator to improve loading time. We also use a decorator named log_time that is implemented in the code, and used to stock in an external file the time taken by some functions to work.
+
+For our function mapping_data, we had to create a function filterLonLatForMapping to hide null values in latitude and longitude columns, with which we can't use the st.map method.
+
+In this application, the user can take a look at where the transactions took place in the different years. [mapping_data]
+Then, [pie_chart_graph] we use pie charts to display the communes and their loan values. The user can choose how much communes he want to be displayed, and also if he wants to see the highest or the lowest communes in terms of loan values in the year(as a sum). Just after, he can see an other pie chart with the number of transactions according to the commune. He can look in the details by entering the name of the town and see the number of transactions that took place there in the year.
+
+He can see the towns along with their land values and land surface sold in the year in a 3D plot.
+Then, a plotly line chart showing the loan values of the towns per month.
+A line chart concerning the land surface of the goods comes after.
+A scatter plot reajustable follows it : the user can choose the x and y axis he wish to see.
+3 histograms make a study of the months, postal code and number of pieces.
+The heatmap shows the code postal and the months, that is to say how much transactions in a certain place are taking place in each month.
+
+The altair shows the surface of the land according the loan values.
+Finally, a bar chart shows us the highest areas of lands sold this year.
+
+
+
